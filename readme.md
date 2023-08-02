@@ -12,6 +12,16 @@ npm run dev
 * Prisma
 * Beekeeper Studio
 * bcryptjs
+* jsonwebtoken
+* MD5
+* dotenv
+```
+https://www.md5hashgenerator.com/
+```
+* jtw
+```
+https://jwt.io/
+```
 
 ### Prisma Coamandos
 * Prisma
@@ -24,3 +34,13 @@ https://www.prisma.io/docs/getting-started/quickstart
 
 * npx prisma
 * npx prisma generate
+
+###
+* Futuro
+```
+https://www.udemy.com/course/figma-design-interfaces/
+```
+* Next
+```
+https://www.udemy.com/course/nextjs-zero-ao-avancado/
+```
