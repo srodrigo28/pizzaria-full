@@ -3,6 +3,10 @@
 https://www.udemy.com/course/dev-fullstack/learn/lecture/31683264#overview
 
 ```
+* Rodar o projeto
+```
+npm run dev
+```
 ### Oque tem de Melhor
 * Typescript
 * Prisma
