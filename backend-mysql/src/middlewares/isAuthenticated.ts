@@ -23,6 +23,8 @@ export function isAuthenticated( req: Request, res: Response, next: NextFunction
             process.env.JWT_SECRET!
         ) as PayLoad
 
+        req.user_id = sub // recuperar o id do token e colcoar em uma variavel
+
         // console.log(sub)
         return next()
 
