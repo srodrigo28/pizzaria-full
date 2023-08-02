@@ -11,6 +11,7 @@ npm run dev
 * Typescript
 * Prisma
 * Beekeeper Studio
+* bcryptjs
 
 ### Prisma Coamandos
 * Prisma
