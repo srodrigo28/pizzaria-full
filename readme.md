@@ -71,3 +71,14 @@ expo install react-native-screens react-native-safe-area-context
 ```
 expo install @react-navigation/native-stack
 ```
+
+### Criando Projeto Web
+* comando cria projeto web
+```
+npx create-next-app
+```
+
+* global next
+```
+ npm i -g create-next-app
+```
