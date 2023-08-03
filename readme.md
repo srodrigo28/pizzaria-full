@@ -45,6 +45,13 @@ https://www.udemy.com/course/figma-design-interfaces/
 https://www.udemy.com/course/nextjs-zero-ao-avancado/
 ```
 
+### API
+
+* Pegando uma imagem via api
+```
+http://localhost:3333/files/543f676410f357f92dcbb5522a437ca0-dell_i7.jpg
+```
+
 ### Expo comandos
 
 * Instalando o Expo Global
