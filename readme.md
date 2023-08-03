@@ -8,13 +8,13 @@ https://www.udemy.com/course/dev-fullstack/learn/lecture/31683264#overview
 npm run dev
 ```
 ### Oque tem de Melhor
-* Typescript
-* Prisma
-* Beekeeper Studio
-* bcryptjs
-* jsonwebtoken
-* MD5
-* dotenv
+* Typescript // liguagem
+* Prisma // orm
+* Beekeeper Studio // trabalhando com banco
+* bcryptjs // criptografia
+* jsonwebtoken // trabalhando com sessions
+* dotenv // trabalhando com variaveis globais
+* multer // trabalhando com imagens
 ```
 https://www.md5hashgenerator.com/
 ```
