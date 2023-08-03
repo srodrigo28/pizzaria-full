@@ -44,3 +44,30 @@ https://www.udemy.com/course/figma-design-interfaces/
 ```
 https://www.udemy.com/course/nextjs-zero-ao-avancado/
 ```
+
+### Expo comandos
+
+* Instalando o Expo Global
+```
+npm install --global expo-cli
+```
+
+* Expo projeto novo
+```
+expo init mobile
+```
+
+* Expo navegação
+```
+expo install @react-navigation/native
+```
+
+* Expo screens safe-area
+```
+expo install react-native-screens react-native-safe-area-context
+```
+
+* Expo  native-stack
+```
+expo install @react-navigation/native-stack
+```
