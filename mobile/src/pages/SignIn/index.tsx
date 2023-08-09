@@ -66,23 +66,24 @@ const styles = StyleSheet.create({
     },
     input:{
         width: '95%',
-        height: 40,
+        height: 60,
         backgroundColor: '#101026',
         marginBottom: 12,
         borderRadius: 4,
         paddingHorizontal: 8,
+        fontSize: 22,
         color: '#fff'
     },
     button: {
         width: '95%',
-        height: 40,
+        height: 60,
         backgroundColor: '#3fffa3',
-        borderBottomEndRadius: 4,
+        borderRadius: 8,
         justifyContent: 'center',
         alignItems: 'center',
     },
     buttonText:{
-        fontSize: 18,
+        fontSize: 22,
         fontWeight: 'bold',
         color: '#101026'
     }
