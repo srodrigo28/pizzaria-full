@@ -12,14 +12,12 @@ export default function SignIn(){
         }
         console.log('Dados digitados', email, password)
     }
-
     return(
         <View style={styles.container}>
             {/* <Image 
                 style={styles.logo} 
                 source={require('../../assets/logo.png')}
             /> */}
-            
             <View style={styles.inputContainer}>
                 <TextInput 
                     style={styles.input} 
@@ -28,7 +26,6 @@ export default function SignIn(){
                     value={email}
                     onChangeText={ setEmail }
                 /> 
-
                 <TextInput 
                     style={styles.input} 
                     secureTextEntry={true} 
@@ -38,7 +35,6 @@ export default function SignIn(){
                     onChangeText={ setPassword }
 
                 />
-
                 <TouchableOpacity style={styles.button} onPress={handleLogin}>
                     <Text style={styles.buttonText}>Acessar</Text>
                 </TouchableOpacity>

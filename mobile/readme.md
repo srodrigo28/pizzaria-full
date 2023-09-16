@@ -23,6 +23,11 @@ npx expo install react-native-screens react-native-safe-area-context
 npm install @react-navigation/stack
 ```
 
+### Rodar no navegador
+```
+npx expo install @expo/webpack-config@^19.0.0
+```
+
 ### Outras dependências
 * Axios
 ```
